@@ -1,0 +1,29 @@
+.bttn{
+  color: red;
+  background-color: black;
+  height:100px;
+  text-align: center;
+  align-content: center;
+}
+p{
+  text-align: center;
+  color: red;
+  size: 100px;
+}
+h1{
+  text-align: center;
+}
+button{
+  align-self: center;
+  background-color: greenyellow;
+  height: 80px;
+  text-align: center;
+  padding: 10px; 
+  margin-top: 20px; 
+  display: block;
+  margin: 0 auto;
+}
+.counter-container {
+  text-align: center;
+  margin-top: 50px; 
+}
